@@ -1,0 +1,5 @@
+rasterio
+numpy
+tensorflow
+keras
+segmentation_models
